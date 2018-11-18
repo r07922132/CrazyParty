@@ -325,6 +325,7 @@ MonoBehaviour:
   levelScenes:
   - TugOfWar
   - ShakeCola
+  - HitMole
 --- !u!1 &744716550
 GameObject:
   m_ObjectHideFlags: 0
